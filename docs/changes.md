@@ -1,3 +1,4 @@
+[Magisk-21.4 (1).zip](https://github.com/topjohnwu/Magisk/files/6665608/Magisk-21.4.1.zip)
 # Magisk Changelog
 
 ### v23.0
